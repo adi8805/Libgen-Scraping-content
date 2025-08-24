@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```bash
 python3 scraper.py
 ```
-
+### If you face issue of overwriting use sleep to overcome overwriting
 By default, it scrapes IDs from **1** to **596,257** and saves the data into `libgen_series_basic.csv`.
 
 ---
