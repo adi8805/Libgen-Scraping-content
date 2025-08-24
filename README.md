@@ -20,18 +20,10 @@ Efficient, concurrent, and saves results continuously to a CSV file for easy dat
 Ensure you have **Python 3.7+** installed, then install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/libgen-series-scraper.git
+git clone https://github.com/adi8805/Libgen-Scraping-content
 cd libgen-series-scraper
 pip install -r requirements.txt
 ````
-
-Create a `requirements.txt` with:
-
-```
-requests
-beautifulsoup4
-tqdm
-```
 
 ---
 
